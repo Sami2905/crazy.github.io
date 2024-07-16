@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/Sami2905/crazy.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "Sa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/Sami2905/crazy.github.io.git/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage":  "https://github.com/Sami2905/crazy.github.io.git/readme",
   "dependencies": {}
 }
